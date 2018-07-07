@@ -1,0 +1,27 @@
+Steps for Execution :
+
+1. Install Node and npm . 
+2. Set Environment variables for node and npm .
+3. If the above to are success then open command prompt and check 
+
+            $ node --version
+            $ npm --version
+    Both should give some version
+
+4. Change the directory path to the project folder 
+5. Perform the command "npm install"
+6. Execute the project by the command 
+
+            $ npm start 
+
+7. The result will be produced in a file "result.json" in the same directory.
+
+
+
+NOTE :
+
+    Visual Studio Code will be a better compiler for NodeJS . 
+
+
+
+

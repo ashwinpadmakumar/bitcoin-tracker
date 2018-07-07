@@ -1,0 +1,900 @@
+{
+  "date": "2018-02-14T10:55:00.000Z",
+  "price": 8800,
+  "priceChange": "na",
+  "change": "na",
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": "na",
+  "lowSinceStart": "na"
+}
+{
+  "date": "2018-02-15T10:55:00.000Z",
+  "price": 9647.09,
+  "priceChange": "up",
+  "change": 847.0900000000001,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": true,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-02-16T10:55:00.000Z",
+  "price": 9863.11,
+  "priceChange": "up",
+  "change": 216.02000000000044,
+  "dayOfWeek": "Friday",
+  "highSinceStart": true,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-17T10:55:00.000Z",
+  "price": 10674.9,
+  "priceChange": "up",
+  "change": 811.789999999999,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": true,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-18T10:55:00.000Z",
+  "price": 10505.31,
+  "priceChange": "down",
+  "change": 169.59000000000015,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-19T10:55:00.000Z",
+  "price": 10944.94,
+  "priceChange": "up",
+  "change": 439.630000000001,
+  "dayOfWeek": "Monday",
+  "highSinceStart": true,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-20T10:55:00.000Z",
+  "price": 11390.77,
+  "priceChange": "up",
+  "change": 445.8299999999999,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": true,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-21T10:55:00.000Z",
+  "price": 10978.82,
+  "priceChange": "down",
+  "change": 411.9500000000007,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-22T10:55:00.000Z",
+  "price": 10130.14,
+  "priceChange": "down",
+  "change": 848.6800000000003,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-23T10:55:00.000Z",
+  "price": 9999.99,
+  "priceChange": "down",
+  "change": 130.14999999999964,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-24T10:55:00.000Z",
+  "price": 9797,
+  "priceChange": "down",
+  "change": 202.98999999999978,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-25T10:55:00.000Z",
+  "price": 9671.28,
+  "priceChange": "down",
+  "change": 125.71999999999935,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-26T10:55:00.000Z",
+  "price": 9684.25,
+  "priceChange": "up",
+  "change": 12.969999999999345,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-27T10:55:00.000Z",
+  "price": 10676.53,
+  "priceChange": "up",
+  "change": 992.2800000000007,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-02-28T10:55:00.000Z",
+  "price": 10581.29,
+  "priceChange": "down",
+  "change": 95.23999999999978,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-01T10:55:00.000Z",
+  "price": 10679.07,
+  "priceChange": "up",
+  "change": 97.77999999999884,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-02T10:55:00.000Z",
+  "price": 10912.84,
+  "priceChange": "up",
+  "change": 233.77000000000044,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-03T10:55:00.000Z",
+  "price": 11326.67,
+  "priceChange": "up",
+  "change": 413.8299999999999,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-04T10:55:00.000Z",
+  "price": 11141.2,
+  "priceChange": "down",
+  "change": 185.46999999999935,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-05T10:55:00.000Z",
+  "price": 11482,
+  "priceChange": "up",
+  "change": 340.7999999999993,
+  "dayOfWeek": "Monday",
+  "highSinceStart": true,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-06T10:55:00.000Z",
+  "price": 10969.98,
+  "priceChange": "down",
+  "change": 512.0200000000004,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-07T10:55:00.000Z",
+  "price": 10503.73,
+  "priceChange": "down",
+  "change": 466.25,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-08T10:55:00.000Z",
+  "price": 10050,
+  "priceChange": "down",
+  "change": 453.72999999999956,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-09T10:55:00.000Z",
+  "price": 8726.02,
+  "priceChange": "down",
+  "change": 1323.9799999999996,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-10T10:55:00.000Z",
+  "price": 9341.63,
+  "priceChange": "up",
+  "change": 615.6099999999988,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-11T10:55:00.000Z",
+  "price": 8685,
+  "priceChange": "down",
+  "change": 656.6299999999992,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-12T10:55:00.000Z",
+  "price": 9824.9,
+  "priceChange": "up",
+  "change": 1139.8999999999996,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-13T10:55:00.000Z",
+  "price": 9023.17,
+  "priceChange": "down",
+  "change": 801.7299999999996,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-14T10:55:00.000Z",
+  "price": 8762.83,
+  "priceChange": "down",
+  "change": 260.34000000000015,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-15T10:55:00.000Z",
+  "price": 8133.91,
+  "priceChange": "down",
+  "change": 628.9200000000001,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-16T10:55:00.000Z",
+  "price": 8105.85,
+  "priceChange": "down",
+  "change": 28.05999999999949,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-17T10:55:00.000Z",
+  "price": 8242.89,
+  "priceChange": "up",
+  "change": 137.03999999999905,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-18T10:55:00.000Z",
+  "price": 7593.49,
+  "priceChange": "down",
+  "change": 649.3999999999996,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-19T10:55:00.000Z",
+  "price": 8232.62,
+  "priceChange": "up",
+  "change": 639.130000000001,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-20T10:55:00.000Z",
+  "price": 8473.4,
+  "priceChange": "up",
+  "change": 240.77999999999884,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-21T10:55:00.000Z",
+  "price": 9057.37,
+  "priceChange": "up",
+  "change": 583.9700000000012,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-22T10:55:00.000Z",
+  "price": 8729.3,
+  "priceChange": "down",
+  "change": 328.0700000000015,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-23T10:55:00.000Z",
+  "price": 8474.61,
+  "priceChange": "down",
+  "change": 254.6899999999987,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-24T10:55:00.000Z",
+  "price": 8763.86,
+  "priceChange": "up",
+  "change": 289.25,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-25T10:55:00.000Z",
+  "price": 8490.68,
+  "priceChange": "down",
+  "change": 273.1800000000003,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-26T10:55:00.000Z",
+  "price": 8255,
+  "priceChange": "down",
+  "change": 235.6800000000003,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-27T10:55:00.000Z",
+  "price": 8018.16,
+  "priceChange": "down",
+  "change": 236.84000000000015,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-28T10:55:00.000Z",
+  "price": 8041.94,
+  "priceChange": "up",
+  "change": 23.779999999999745,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-03-29T10:55:00.000Z",
+  "price": 7480,
+  "priceChange": "down",
+  "change": 561.9399999999996,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-30T10:55:00.000Z",
+  "price": 6937.24,
+  "priceChange": "down",
+  "change": 542.7600000000002,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-03-31T10:55:00.000Z",
+  "price": 7120.05,
+  "priceChange": "up",
+  "change": 182.8100000000004,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-01T10:55:00.000Z",
+  "price": 6705.43,
+  "priceChange": "down",
+  "change": 414.6199999999999,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-04-02T10:55:00.000Z",
+  "price": 7062.57,
+  "priceChange": "up",
+  "change": 357.1399999999994,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-03T10:55:00.000Z",
+  "price": 7302.43,
+  "priceChange": "up",
+  "change": 239.86000000000058,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-04T10:55:00.000Z",
+  "price": 7091.74,
+  "priceChange": "down",
+  "change": 210.6900000000005,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-05T10:55:00.000Z",
+  "price": 6806.32,
+  "priceChange": "down",
+  "change": 285.4200000000001,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-06T10:55:00.000Z",
+  "price": 6573.17,
+  "priceChange": "down",
+  "change": 233.14999999999964,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": true
+}
+{
+  "date": "2018-04-07T10:55:00.000Z",
+  "price": 6869.42,
+  "priceChange": "up",
+  "change": 296.25,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-08T10:55:00.000Z",
+  "price": 6978.29,
+  "priceChange": "up",
+  "change": 108.86999999999989,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-09T10:55:00.000Z",
+  "price": 6803.23,
+  "priceChange": "down",
+  "change": 175.0600000000004,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-10T10:55:00.000Z",
+  "price": 6726.86,
+  "priceChange": "down",
+  "change": 76.36999999999989,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-11T10:55:00.000Z",
+  "price": 6845.45,
+  "priceChange": "up",
+  "change": 118.59000000000015,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-12T10:55:00.000Z",
+  "price": 6952.91,
+  "priceChange": "up",
+  "change": 107.46000000000004,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-13T10:55:00.000Z",
+  "price": 8081.11,
+  "priceChange": "up",
+  "change": 1128.1999999999998,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-14T10:55:00.000Z",
+  "price": 7965.07,
+  "priceChange": "down",
+  "change": 116.03999999999996,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-15T10:55:00.000Z",
+  "price": 8122,
+  "priceChange": "up",
+  "change": 156.9300000000003,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-16T10:55:00.000Z",
+  "price": 8079,
+  "priceChange": "down",
+  "change": 43,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-17T10:55:00.000Z",
+  "price": 8093.49,
+  "priceChange": "up",
+  "change": 14.489999999999782,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-18T10:55:00.000Z",
+  "price": 8106.67,
+  "priceChange": "up",
+  "change": 13.180000000000291,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-19T10:55:00.000Z",
+  "price": 8230.49,
+  "priceChange": "up",
+  "change": 123.81999999999971,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-20T10:55:00.000Z",
+  "price": 8515.04,
+  "priceChange": "up",
+  "change": 284.5500000000011,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-21T10:55:00.000Z",
+  "price": 8739.39,
+  "priceChange": "up",
+  "change": 224.34999999999854,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-22T10:55:00.000Z",
+  "price": 8939.38,
+  "priceChange": "up",
+  "change": 199.98999999999978,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-23T10:55:00.000Z",
+  "price": 8898.4,
+  "priceChange": "down",
+  "change": 40.97999999999956,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-24T10:55:00.000Z",
+  "price": 9294.18,
+  "priceChange": "up",
+  "change": 395.78000000000065,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-25T10:55:00.000Z",
+  "price": 9048.72,
+  "priceChange": "down",
+  "change": 245.46000000000095,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-26T10:55:00.000Z",
+  "price": 8853.84,
+  "priceChange": "down",
+  "change": 194.8799999999992,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-27T10:55:00.000Z",
+  "price": 9362.13,
+  "priceChange": "up",
+  "change": 508.28999999999905,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-28T10:55:00.000Z",
+  "price": 9249.98,
+  "priceChange": "down",
+  "change": 112.14999999999964,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-29T10:55:00.000Z",
+  "price": 9236.97,
+  "priceChange": "down",
+  "change": 13.010000000000218,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-04-30T10:55:00.000Z",
+  "price": 9252.12,
+  "priceChange": "up",
+  "change": 15.150000000001455,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-01T10:55:00.000Z",
+  "price": 9014.96,
+  "priceChange": "down",
+  "change": 237.16000000000167,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-02T10:55:00.000Z",
+  "price": 9140.34,
+  "priceChange": "up",
+  "change": 125.38000000000102,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-03T10:55:00.000Z",
+  "price": 9217.03,
+  "priceChange": "up",
+  "change": 76.69000000000051,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-04T10:55:00.000Z",
+  "price": 9688.73,
+  "priceChange": "up",
+  "change": 471.6999999999989,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-05T10:55:00.000Z",
+  "price": 9906.02,
+  "priceChange": "up",
+  "change": 217.29000000000087,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-06T10:55:00.000Z",
+  "price": 9532.73,
+  "priceChange": "down",
+  "change": 373.2900000000009,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-07T10:55:00.000Z",
+  "price": 9287.41,
+  "priceChange": "down",
+  "change": 245.3199999999997,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-08T10:55:00.000Z",
+  "price": 9298,
+  "priceChange": "up",
+  "change": 10.590000000000146,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-09T10:55:00.000Z",
+  "price": 9156.16,
+  "priceChange": "down",
+  "change": 141.84000000000015,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-10T10:55:00.000Z",
+  "price": 9367.8,
+  "priceChange": "up",
+  "change": 211.63999999999942,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-11T10:55:00.000Z",
+  "price": 8712,
+  "priceChange": "down",
+  "change": 655.7999999999993,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-12T10:55:00.000Z",
+  "price": 8563.79,
+  "priceChange": "down",
+  "change": 148.20999999999913,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-13T10:55:00.000Z",
+  "price": 8566.71,
+  "priceChange": "up",
+  "change": 2.9199999999982538,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-14T10:55:00.000Z",
+  "price": 8421.99,
+  "priceChange": "down",
+  "change": 144.71999999999935,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-15T10:55:00.000Z",
+  "price": 8806.99,
+  "priceChange": "up",
+  "change": 385,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-16T10:55:00.000Z",
+  "price": 8372.6,
+  "priceChange": "down",
+  "change": 434.3899999999994,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-17T10:55:00.000Z",
+  "price": 8296.85,
+  "priceChange": "down",
+  "change": 75.75,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-18T10:55:00.000Z",
+  "price": 8125.4,
+  "priceChange": "down",
+  "change": 171.45000000000073,
+  "dayOfWeek": "Friday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-19T10:55:00.000Z",
+  "price": 8244.05,
+  "priceChange": "up",
+  "change": 118.64999999999964,
+  "dayOfWeek": "Saturday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-20T10:55:00.000Z",
+  "price": 8355.7,
+  "priceChange": "up",
+  "change": 111.65000000000146,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-21T10:55:00.000Z",
+  "price": 8471.3,
+  "priceChange": "up",
+  "change": 115.59999999999854,
+  "dayOfWeek": "Monday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-22T10:55:00.000Z",
+  "price": 8251.14,
+  "priceChange": "down",
+  "change": 220.15999999999985,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-23T10:55:00.000Z",
+  "price": 7843.9,
+  "priceChange": "down",
+  "change": 407.2399999999998,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}
+{
+  "date": "2018-05-24T10:55:00.000Z",
+  "price": 7314.87,
+  "priceChange": "down",
+  "change": 529.0299999999997,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": false,
+  "lowSinceStart": false
+}

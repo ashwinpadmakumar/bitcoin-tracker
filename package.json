@@ -1,0 +1,19 @@
+{
+  "name": "Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "request": "^2.87.0",
+    "sort-json-array": "^0.1.7"
+  }
+}
