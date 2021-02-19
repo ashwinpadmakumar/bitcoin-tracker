@@ -5,20 +5,19 @@ var fs = require('fs')
 var jsonFile = require('jsonfile')
 
 //Delete the result.json file if it pre-exists
-if(fs.existsSync('result.json'))
+if (fs.existsSync('result.json'))
     fs.unlinkSync('result.json');
 
-var result;             //used to hold the main url results
 var sortedResult;       //used to hold the sorted results
 
 var constructedJSON = {
-        "date": null,
-        "price": null,
-        "priceChange": null,
-        "change": null,
-        "dayOfWeek": null,
-        "highSinceStart": null,
-        "lowSinceStart": null
+    "date": null,
+    "price": null,
+    "priceChange": null,
+    "changeDelta": null,
+    "dayOfWeek": null,
+    "highSinceStart": null,
+    "lowSinceStart": null
 }
 
 var getURL = {
@@ -30,7 +29,7 @@ var getURL = {
     json: true
 };
 
-var getWeekDay = function(timestamp){
+var getWeekDay = function (timestamp) {
     var d = new Date(timestamp);
     var dayNumber = d.getDay();
 
@@ -44,10 +43,10 @@ var getWeekDay = function(timestamp){
 
 }
 
-var isHighSinceStart = function(index){
-    var count = index-1;
-    while( count >= 1){
-        if( sortedResult[count].lastPrice > sortedResult[index].lastPrice )
+var isHighSinceStart = function (index) {
+    var count = index - 1;
+    while (count >= 1) {
+        if (sortedResult[count].lastPrice > sortedResult[index].lastPrice)
             return false;
         count--;
     }
@@ -55,10 +54,10 @@ var isHighSinceStart = function(index){
     return true;
 }
 
-var isLowSinceStart = function(index){
-    var count = index-1;
-    while( count >= 1){
-        if( sortedResult[count].lastPrice < sortedResult[index].lastPrice )
+var isLowSinceStart = function (index) {
+    var count = index - 1;
+    while (count >= 1) {
+        if (sortedResult[count].lastPrice < sortedResult[index].lastPrice)
             return false;
         count--;
     }
@@ -66,63 +65,45 @@ var isLowSinceStart = function(index){
     return true;
 }
 
-request(getURL, function(error,response,body){
+var buildEntity = function (previousObject, currentObject, priceChange, isHighSinceStart, isLowSinceStart) {
+    constructedJSON.date = currentObject.timestamp;
+    constructedJSON.price = currentObject.lastPrice;
+    constructedJSON.priceChange = priceChange;
+    var changeDelta = currentObject.lastPrice - previousObject.lastPrice;
+    if (changeDelta > 0) {
+        priceChange = "up";
+    }
+    if (changeDelta < 0) {
+        priceChange = "down";
+    }
+    if (changeDelta == 0) {
+        priceChange = "same";
+    }
+    constructedJSON.changeDelta = changeDelta;
+    constructedJSON.priceChange = priceChange;
+    constructedJSON.dayOfWeek = getWeekDay(currentObject.timestamp);
+    jsonFile.writeFileSync('result.json', constructedJSON, { spaces: 2, EOL: '\r\n', flag: 'a' })
+}
+
+request(getURL, function (error, response, body) {
     if (error) throw new Error(error);
 
     resultBody = response.body;
-    sortedResult = sortJSONArray(resultBody,'timestamp');
-    
-        constructedJSON.date = sortedResult[0].timestamp;
-        constructedJSON.price = sortedResult[0].lastPrice;
-        constructedJSON.priceChange = 'na';
-        constructedJSON.change = 'na';
-        constructedJSON.dayOfWeek = getWeekDay(sortedResult[0].timestamp);
-        constructedJSON.highSinceStart = 'na';
-        constructedJSON.lowSinceStart = 'na';
-        jsonFile.writeFileSync('result.json',constructedJSON,{spaces: 2, EOL: '\r\n',flag: 'a'})
+    // Sorting the json based on the timestamp
+    sortedResult = sortJSONArray(resultBody, 'timestamp');
 
-        for( var i = 0 , j = 1; i < sortedResult.length - 1 , j < sortedResult.length ; i++,j++ ){
-            if( sortedResult[i].lastPrice < sortedResult[j].lastPrice )
-            {
-                constructedJSON.date = sortedResult[j].timestamp;
-                constructedJSON.price = sortedResult[j].lastPrice;
-                constructedJSON.priceChange = 'up';
-                constructedJSON.change = sortedResult[j].lastPrice - sortedResult[i].lastPrice;
-                constructedJSON.dayOfWeek = getWeekDay(sortedResult[j].timestamp);
-                constructedJSON.highSinceStart = isHighSinceStart(j);
-                constructedJSON.lowSinceStart = isLowSinceStart(j);
-                jsonFile.writeFileSync('result.json',constructedJSON,{spaces: 2, EOL: '\r\n',flag: 'a'})
+    for (var prev = 0, curr = 1; prev < sortedResult.length - 1, curr < sortedResult.length; prev++, curr++) {
+        buildEntity(
+            sortedResult[prev],
+            sortedResult[curr],
+            isHighSinceStart(curr),
+            isLowSinceStart(curr)
+        );
+    }
 
-            }
-            
-            if( sortedResult[i].lastPrice > sortedResult[j].lastPrice )
-            {
-                constructedJSON.date = sortedResult[j].timestamp;
-                constructedJSON.price = sortedResult[j].lastPrice;
-                constructedJSON.priceChange = 'down';
-                constructedJSON.change = sortedResult[i].lastPrice - sortedResult[j].lastPrice;
-                constructedJSON.dayOfWeek = getWeekDay(sortedResult[j].timestamp);
-                constructedJSON.highSinceStart = isHighSinceStart(j);
-                constructedJSON.lowSinceStart = isLowSinceStart(j);
-                jsonFile.writeFileSync('result.json',constructedJSON,{spaces: 2, EOL: '\r\n',flag: 'a'})
-
-            }
-            
-            if( sortedResult[i].lastPrice == sortedResult[j].lastPrice )
-            {
-                constructedJSON.date = sortedResult[j].timestamp;
-                constructedJSON.price = sortedResult[j].lastPrice;
-                constructedJSON.priceChange = 'same';
-                constructedJSON.change = 0;
-                constructedJSON.dayOfWeek = getWeekDay(sortedResult[j].timestamp);
-                constructedJSON.highSinceStart = isHighSinceStart(j);
-                constructedJSON.lowSinceStart = isLowSinceStart(j);
-                jsonFile.writeFileSync('result.json',constructedJSON,{spaces: 2, EOL: '\r\n',flag: 'a'})
-
-            }
-        }
-
-      console.log('Result written to result.json file');
+    console.log('Result written to result.json file');
 });
+
+
 
 

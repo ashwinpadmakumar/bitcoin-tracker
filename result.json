@@ -1,900 +1,891 @@
 {
-  "date": "2018-02-14T10:55:00.000Z",
-  "price": 8800,
-  "priceChange": "na",
-  "change": "na",
-  "dayOfWeek": "Wednesday",
-  "highSinceStart": "na",
-  "lowSinceStart": "na"
-}
-{
-  "date": "2018-02-15T10:55:00.000Z",
-  "price": 9647.09,
+  "date": "2020-11-12T10:55:00.000Z",
+  "price": 15777.48,
   "priceChange": "up",
-  "change": 847.0900000000001,
+  "changeDelta": 272.2999999999993,
   "dayOfWeek": "Thursday",
-  "highSinceStart": true,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-16T10:55:00.000Z",
-  "price": 9863.11,
+  "date": "2020-11-13T10:55:00.000Z",
+  "price": 16241.88,
   "priceChange": "up",
-  "change": 216.02000000000044,
+  "changeDelta": 464.39999999999964,
   "dayOfWeek": "Friday",
-  "highSinceStart": true,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-17T10:55:00.000Z",
-  "price": 10674.9,
-  "priceChange": "up",
-  "change": 811.789999999999,
+  "date": "2020-11-14T10:55:00.000Z",
+  "price": 15872.95,
+  "priceChange": "down",
+  "changeDelta": -368.9299999999985,
   "dayOfWeek": "Saturday",
-  "highSinceStart": true,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-18T10:55:00.000Z",
-  "price": 10505.31,
-  "priceChange": "down",
-  "change": 169.59000000000015,
+  "date": "2020-11-15T10:55:00.000Z",
+  "price": 15998.72,
+  "priceChange": "up",
+  "changeDelta": 125.76999999999862,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-19T10:55:00.000Z",
-  "price": 10944.94,
+  "date": "2020-11-16T10:55:00.000Z",
+  "price": 16344.47,
   "priceChange": "up",
-  "change": 439.630000000001,
+  "changeDelta": 345.75,
   "dayOfWeek": "Monday",
-  "highSinceStart": true,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-20T10:55:00.000Z",
-  "price": 11390.77,
+  "date": "2020-11-17T10:55:00.000Z",
+  "price": 16762.41,
   "priceChange": "up",
-  "change": 445.8299999999999,
+  "changeDelta": 417.9400000000005,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": true,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-21T10:55:00.000Z",
-  "price": 10978.82,
-  "priceChange": "down",
-  "change": 411.9500000000007,
+  "date": "2020-11-18T10:55:00.000Z",
+  "price": 18228.22,
+  "priceChange": "up",
+  "changeDelta": 1465.8100000000013,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-22T10:55:00.000Z",
-  "price": 10130.14,
+  "date": "2020-11-19T10:55:00.000Z",
+  "price": 17603.83,
   "priceChange": "down",
-  "change": 848.6800000000003,
+  "changeDelta": -624.3899999999994,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-23T10:55:00.000Z",
-  "price": 9999.99,
-  "priceChange": "down",
-  "change": 130.14999999999964,
+  "date": "2020-11-20T10:55:00.000Z",
+  "price": 18288.68,
+  "priceChange": "up",
+  "changeDelta": 684.8499999999985,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-24T10:55:00.000Z",
-  "price": 9797,
-  "priceChange": "down",
-  "change": 202.98999999999978,
+  "date": "2020-11-21T10:55:00.000Z",
+  "price": 18600,
+  "priceChange": "up",
+  "changeDelta": 311.3199999999997,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-25T10:55:00.000Z",
-  "price": 9671.28,
+  "date": "2020-11-22T10:55:00.000Z",
+  "price": 18098.51,
   "priceChange": "down",
-  "change": 125.71999999999935,
+  "changeDelta": -501.4900000000016,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-26T10:55:00.000Z",
-  "price": 9684.25,
+  "date": "2020-11-23T10:55:00.000Z",
+  "price": 18729.99,
   "priceChange": "up",
-  "change": 12.969999999999345,
+  "changeDelta": 631.4800000000032,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-27T10:55:00.000Z",
-  "price": 10676.53,
+  "date": "2020-11-24T10:55:00.000Z",
+  "price": 18919.84,
   "priceChange": "up",
-  "change": 992.2800000000007,
+  "changeDelta": 189.84999999999854,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-02-28T10:55:00.000Z",
-  "price": 10581.29,
-  "priceChange": "down",
-  "change": 95.23999999999978,
+  "date": "2020-11-25T10:55:00.000Z",
+  "price": 19269.88,
+  "priceChange": "up",
+  "changeDelta": 350.0400000000009,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-01T10:55:00.000Z",
-  "price": 10679.07,
-  "priceChange": "up",
-  "change": 97.77999999999884,
+  "date": "2020-11-26T10:55:00.000Z",
+  "price": 17260.37,
+  "priceChange": "down",
+  "changeDelta": -2009.510000000002,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-02T10:55:00.000Z",
-  "price": 10912.84,
-  "priceChange": "up",
-  "change": 233.77000000000044,
+  "date": "2020-11-27T10:55:00.000Z",
+  "price": 16871.62,
+  "priceChange": "down",
+  "changeDelta": -388.75,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-03T10:55:00.000Z",
-  "price": 11326.67,
+  "date": "2020-11-28T10:55:00.000Z",
+  "price": 17207.06,
   "priceChange": "up",
-  "change": 413.8299999999999,
+  "changeDelta": 335.4400000000023,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-04T10:55:00.000Z",
-  "price": 11141.2,
-  "priceChange": "down",
-  "change": 185.46999999999935,
-  "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-03-05T10:55:00.000Z",
-  "price": 11482,
+  "date": "2020-11-29T10:55:00.000Z",
+  "price": 18185.24,
   "priceChange": "up",
-  "change": 340.7999999999993,
+  "changeDelta": 978.1800000000003,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2020-11-30T10:55:00.000Z",
+  "price": 18537.13,
+  "priceChange": "up",
+  "changeDelta": 351.8899999999994,
   "dayOfWeek": "Monday",
-  "highSinceStart": true,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-06T10:55:00.000Z",
-  "price": 10969.98,
-  "priceChange": "down",
-  "change": 512.0200000000004,
+  "date": "2020-12-01T10:55:00.000Z",
+  "price": 19817.66,
+  "priceChange": "up",
+  "changeDelta": 1280.5299999999988,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-07T10:55:00.000Z",
-  "price": 10503.73,
+  "date": "2020-12-02T10:55:00.000Z",
+  "price": 19117.67,
   "priceChange": "down",
-  "change": 466.25,
+  "changeDelta": -699.9900000000016,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-08T10:55:00.000Z",
-  "price": 10050,
-  "priceChange": "down",
-  "change": 453.72999999999956,
+  "date": "2020-12-03T10:55:00.000Z",
+  "price": 19380.29,
+  "priceChange": "up",
+  "changeDelta": 262.6200000000026,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-09T10:55:00.000Z",
-  "price": 8726.02,
+  "date": "2020-12-04T10:55:00.000Z",
+  "price": 19011.43,
   "priceChange": "down",
-  "change": 1323.9799999999996,
+  "changeDelta": -368.8600000000006,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-10T10:55:00.000Z",
-  "price": 9341.63,
+  "date": "2020-12-05T10:55:00.000Z",
+  "price": 19113.18,
   "priceChange": "up",
-  "change": 615.6099999999988,
+  "changeDelta": 101.75,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-11T10:55:00.000Z",
-  "price": 8685,
+  "date": "2020-12-06T10:55:00.000Z",
+  "price": 19016.31,
   "priceChange": "down",
-  "change": 656.6299999999992,
+  "changeDelta": -96.86999999999898,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-12T10:55:00.000Z",
-  "price": 9824.9,
+  "date": "2020-12-07T10:55:00.000Z",
+  "price": 19202,
   "priceChange": "up",
-  "change": 1139.8999999999996,
+  "changeDelta": 185.6899999999987,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-13T10:55:00.000Z",
-  "price": 9023.17,
+  "date": "2020-12-08T10:55:00.000Z",
+  "price": 18786.21,
   "priceChange": "down",
-  "change": 801.7299999999996,
+  "changeDelta": -415.7900000000009,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-14T10:55:00.000Z",
-  "price": 8762.83,
+  "date": "2020-12-09T10:55:00.000Z",
+  "price": 18175.73,
   "priceChange": "down",
-  "change": 260.34000000000015,
+  "changeDelta": -610.4799999999996,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-15T10:55:00.000Z",
-  "price": 8133.91,
+  "date": "2020-12-10T10:55:00.000Z",
+  "price": 18150.91,
   "priceChange": "down",
-  "change": 628.9200000000001,
+  "changeDelta": -24.81999999999971,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-16T10:55:00.000Z",
-  "price": 8105.85,
+  "date": "2020-12-11T10:55:00.000Z",
+  "price": 17718.81,
   "priceChange": "down",
-  "change": 28.05999999999949,
+  "changeDelta": -432.09999999999854,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-17T10:55:00.000Z",
-  "price": 8242.89,
+  "date": "2020-12-12T10:55:00.000Z",
+  "price": 18387.67,
   "priceChange": "up",
-  "change": 137.03999999999905,
+  "changeDelta": 668.859999999997,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-18T10:55:00.000Z",
-  "price": 7593.49,
-  "priceChange": "down",
-  "change": 649.3999999999996,
+  "date": "2020-12-13T10:55:00.000Z",
+  "price": 19278.81,
+  "priceChange": "up",
+  "changeDelta": 891.140000000003,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-19T10:55:00.000Z",
-  "price": 8232.62,
-  "priceChange": "up",
-  "change": 639.130000000001,
+  "date": "2020-12-14T10:55:00.000Z",
+  "price": 19087.11,
+  "priceChange": "down",
+  "changeDelta": -191.70000000000073,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-20T10:55:00.000Z",
-  "price": 8473.4,
+  "date": "2020-12-15T10:55:00.000Z",
+  "price": 19332.3,
   "priceChange": "up",
-  "change": 240.77999999999884,
+  "changeDelta": 245.1899999999987,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-21T10:55:00.000Z",
-  "price": 9057.37,
+  "date": "2020-12-16T10:55:00.000Z",
+  "price": 19714.06,
   "priceChange": "up",
-  "change": 583.9700000000012,
+  "changeDelta": 381.76000000000204,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-22T10:55:00.000Z",
-  "price": 8729.3,
-  "priceChange": "down",
-  "change": 328.0700000000015,
+  "date": "2020-12-17T10:55:00.000Z",
+  "price": 22624.45,
+  "priceChange": "up",
+  "changeDelta": 2910.3899999999994,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-23T10:55:00.000Z",
-  "price": 8474.61,
-  "priceChange": "down",
-  "change": 254.6899999999987,
+  "date": "2020-12-18T10:55:00.000Z",
+  "price": 22973.55,
+  "priceChange": "up",
+  "changeDelta": 349.09999999999854,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-24T10:55:00.000Z",
-  "price": 8763.86,
+  "date": "2020-12-19T10:55:00.000Z",
+  "price": 23008.9,
   "priceChange": "up",
-  "change": 289.25,
+  "changeDelta": 35.35000000000218,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-25T10:55:00.000Z",
-  "price": 8490.68,
-  "priceChange": "down",
-  "change": 273.1800000000003,
-  "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-03-26T10:55:00.000Z",
-  "price": 8255,
-  "priceChange": "down",
-  "change": 235.6800000000003,
-  "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-03-27T10:55:00.000Z",
-  "price": 8018.16,
-  "priceChange": "down",
-  "change": 236.84000000000015,
-  "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-03-28T10:55:00.000Z",
-  "price": 8041.94,
+  "date": "2020-12-20T10:55:00.000Z",
+  "price": 23444.67,
   "priceChange": "up",
-  "change": 23.779999999999745,
+  "changeDelta": 435.7699999999968,
+  "dayOfWeek": "Sunday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2020-12-21T10:55:00.000Z",
+  "price": 22710.65,
+  "priceChange": "down",
+  "changeDelta": -734.0199999999968,
+  "dayOfWeek": "Monday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2020-12-22T10:55:00.000Z",
+  "price": 22699.25,
+  "priceChange": "down",
+  "changeDelta": -11.400000000001455,
+  "dayOfWeek": "Tuesday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2020-12-23T10:55:00.000Z",
+  "price": 23440.75,
+  "priceChange": "up",
+  "changeDelta": 741.5,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-29T10:55:00.000Z",
-  "price": 7480,
+  "date": "2020-12-24T10:55:00.000Z",
+  "price": 23204.65,
   "priceChange": "down",
-  "change": 561.9399999999996,
+  "changeDelta": -236.09999999999854,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-30T10:55:00.000Z",
-  "price": 6937.24,
-  "priceChange": "down",
-  "change": 542.7600000000002,
+  "date": "2020-12-25T10:55:00.000Z",
+  "price": 23976.22,
+  "priceChange": "up",
+  "changeDelta": 771.5699999999997,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-03-31T10:55:00.000Z",
-  "price": 7120.05,
+  "date": "2020-12-26T10:55:00.000Z",
+  "price": 24723.27,
   "priceChange": "up",
-  "change": 182.8100000000004,
+  "changeDelta": 747.0499999999993,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-01T10:55:00.000Z",
-  "price": 6705.43,
-  "priceChange": "down",
-  "change": 414.6199999999999,
+  "date": "2020-12-27T10:55:00.000Z",
+  "price": 27776.01,
+  "priceChange": "up",
+  "changeDelta": 3052.739999999998,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-02T10:55:00.000Z",
-  "price": 7062.57,
-  "priceChange": "up",
-  "change": 357.1399999999994,
+  "date": "2020-12-28T10:55:00.000Z",
+  "price": 26618.45,
+  "priceChange": "down",
+  "changeDelta": -1157.5599999999977,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-03T10:55:00.000Z",
-  "price": 7302.43,
+  "date": "2020-12-29T10:55:00.000Z",
+  "price": 26751.37,
   "priceChange": "up",
-  "change": 239.86000000000058,
+  "changeDelta": 132.91999999999825,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-04T10:55:00.000Z",
-  "price": 7091.74,
-  "priceChange": "down",
-  "change": 210.6900000000005,
+  "date": "2020-12-30T10:55:00.000Z",
+  "price": 27858.47,
+  "priceChange": "up",
+  "changeDelta": 1107.1000000000022,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-05T10:55:00.000Z",
-  "price": 6806.32,
-  "priceChange": "down",
-  "change": 285.4200000000001,
+  "date": "2020-12-31T10:55:00.000Z",
+  "price": 29112.65,
+  "priceChange": "up",
+  "changeDelta": 1254.1800000000003,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-06T10:55:00.000Z",
-  "price": 6573.17,
-  "priceChange": "down",
-  "change": 233.14999999999964,
+  "date": "2021-01-01T10:55:00.000Z",
+  "price": 29340.72,
+  "priceChange": "up",
+  "changeDelta": 228.0699999999997,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": true
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-07T10:55:00.000Z",
-  "price": 6869.42,
+  "date": "2021-01-02T10:55:00.000Z",
+  "price": 29778.22,
   "priceChange": "up",
-  "change": 296.25,
+  "changeDelta": 437.5,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-08T10:55:00.000Z",
-  "price": 6978.29,
+  "date": "2021-01-03T10:55:00.000Z",
+  "price": 33959.66,
   "priceChange": "up",
-  "change": 108.86999999999989,
+  "changeDelta": 4181.440000000002,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-09T10:55:00.000Z",
-  "price": 6803.23,
+  "date": "2021-01-04T10:55:00.000Z",
+  "price": 30279.31,
   "priceChange": "down",
-  "change": 175.0600000000004,
+  "changeDelta": -3680.350000000002,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-10T10:55:00.000Z",
-  "price": 6726.86,
-  "priceChange": "down",
-  "change": 76.36999999999989,
+  "date": "2021-01-05T10:55:00.000Z",
+  "price": 31342.8,
+  "priceChange": "up",
+  "changeDelta": 1063.489999999998,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-11T10:55:00.000Z",
-  "price": 6845.45,
+  "date": "2021-01-06T10:55:00.000Z",
+  "price": 34580.64,
   "priceChange": "up",
-  "change": 118.59000000000015,
+  "changeDelta": 3237.84,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-12T10:55:00.000Z",
-  "price": 6952.91,
+  "date": "2021-01-07T10:55:00.000Z",
+  "price": 37054.95,
   "priceChange": "up",
-  "change": 107.46000000000004,
+  "changeDelta": 2474.3099999999977,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-13T10:55:00.000Z",
-  "price": 8081.11,
+  "date": "2021-01-08T10:55:00.000Z",
+  "price": 40584.54,
   "priceChange": "up",
-  "change": 1128.1999999999998,
+  "changeDelta": 3529.590000000004,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-14T10:55:00.000Z",
-  "price": 7965.07,
+  "date": "2021-01-09T10:55:00.000Z",
+  "price": 40435.99,
   "priceChange": "down",
-  "change": 116.03999999999996,
+  "changeDelta": -148.5500000000029,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-15T10:55:00.000Z",
-  "price": 8122,
+  "date": "2021-01-10T10:55:00.000Z",
+  "price": 40621.38,
   "priceChange": "up",
-  "change": 156.9300000000003,
+  "changeDelta": 185.38999999999942,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-16T10:55:00.000Z",
-  "price": 8079,
+  "date": "2021-01-11T10:55:00.000Z",
+  "price": 35269.22,
   "priceChange": "down",
-  "change": 43,
+  "changeDelta": -5352.159999999996,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-17T10:55:00.000Z",
-  "price": 8093.49,
-  "priceChange": "up",
-  "change": 14.489999999999782,
+  "date": "2021-01-12T10:55:00.000Z",
+  "price": 35201.97,
+  "priceChange": "down",
+  "changeDelta": -67.25,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-18T10:55:00.000Z",
-  "price": 8106.67,
-  "priceChange": "up",
-  "change": 13.180000000000291,
+  "date": "2021-01-13T10:55:00.000Z",
+  "price": 34789.34,
+  "priceChange": "down",
+  "changeDelta": -412.63000000000466,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-19T10:55:00.000Z",
-  "price": 8230.49,
+  "date": "2021-01-14T10:55:00.000Z",
+  "price": 38163.26,
   "priceChange": "up",
-  "change": 123.81999999999971,
+  "changeDelta": 3373.9200000000055,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-20T10:55:00.000Z",
-  "price": 8515.04,
+  "date": "2021-01-15T10:55:00.000Z",
+  "price": 38504.52,
   "priceChange": "up",
-  "change": 284.5500000000011,
+  "changeDelta": 341.25999999999476,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-21T10:55:00.000Z",
-  "price": 8739.39,
-  "priceChange": "up",
-  "change": 224.34999999999854,
+  "date": "2021-01-16T10:55:00.000Z",
+  "price": 37333.54,
+  "priceChange": "down",
+  "changeDelta": -1170.979999999996,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-22T10:55:00.000Z",
-  "price": 8939.38,
-  "priceChange": "up",
-  "change": 199.98999999999978,
+  "date": "2021-01-17T10:55:00.000Z",
+  "price": 34844.85,
+  "priceChange": "down",
+  "changeDelta": -2488.6900000000023,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-23T10:55:00.000Z",
-  "price": 8898.4,
-  "priceChange": "down",
-  "change": 40.97999999999956,
+  "date": "2021-01-18T10:55:00.000Z",
+  "price": 36190.56,
+  "priceChange": "up",
+  "changeDelta": 1345.7099999999991,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-24T10:55:00.000Z",
-  "price": 9294.18,
+  "date": "2021-01-19T10:55:00.000Z",
+  "price": 37110.42,
   "priceChange": "up",
-  "change": 395.78000000000065,
+  "changeDelta": 919.8600000000006,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-25T10:55:00.000Z",
-  "price": 9048.72,
+  "date": "2021-01-20T10:55:00.000Z",
+  "price": 34882.14,
   "priceChange": "down",
-  "change": 245.46000000000095,
+  "changeDelta": -2228.279999999999,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-26T10:55:00.000Z",
-  "price": 8853.84,
+  "date": "2021-01-21T10:55:00.000Z",
+  "price": 32886.2,
   "priceChange": "down",
-  "change": 194.8799999999992,
+  "changeDelta": -1995.9400000000023,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-27T10:55:00.000Z",
-  "price": 9362.13,
-  "priceChange": "up",
-  "change": 508.28999999999905,
+  "date": "2021-01-22T10:55:00.000Z",
+  "price": 31288.25,
+  "priceChange": "down",
+  "changeDelta": -1597.949999999997,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-28T10:55:00.000Z",
-  "price": 9249.98,
-  "priceChange": "down",
-  "change": 112.14999999999964,
+  "date": "2021-01-23T10:55:00.000Z",
+  "price": 32371.49,
+  "priceChange": "up",
+  "changeDelta": 1083.2400000000016,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-29T10:55:00.000Z",
-  "price": 9236.97,
-  "priceChange": "down",
-  "change": 13.010000000000218,
+  "date": "2021-01-24T10:55:00.000Z",
+  "price": 32670.82,
+  "priceChange": "up",
+  "changeDelta": 299.3299999999981,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-04-30T10:55:00.000Z",
-  "price": 9252.12,
+  "date": "2021-01-25T10:55:00.000Z",
+  "price": 33108.44,
   "priceChange": "up",
-  "change": 15.150000000001455,
+  "changeDelta": 437.6200000000026,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-01T10:55:00.000Z",
-  "price": 9014.96,
+  "date": "2021-01-26T10:55:00.000Z",
+  "price": 32145.08,
   "priceChange": "down",
-  "change": 237.16000000000167,
+  "changeDelta": -963.3600000000006,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-02T10:55:00.000Z",
-  "price": 9140.34,
-  "priceChange": "up",
-  "change": 125.38000000000102,
+  "date": "2021-01-27T10:55:00.000Z",
+  "price": 31287.9,
+  "priceChange": "down",
+  "changeDelta": -857.1800000000003,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-03T10:55:00.000Z",
-  "price": 9217.03,
+  "date": "2021-01-28T10:55:00.000Z",
+  "price": 31499.69,
   "priceChange": "up",
-  "change": 76.69000000000051,
+  "changeDelta": 211.78999999999724,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-04T10:55:00.000Z",
-  "price": 9688.73,
+  "date": "2021-01-29T10:55:00.000Z",
+  "price": 36825.11,
   "priceChange": "up",
-  "change": 471.6999999999989,
+  "changeDelta": 5325.420000000002,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-05T10:55:00.000Z",
-  "price": 9906.02,
-  "priceChange": "up",
-  "change": 217.29000000000087,
+  "date": "2021-01-30T10:55:00.000Z",
+  "price": 34340.31,
+  "priceChange": "down",
+  "changeDelta": -2484.800000000003,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-06T10:55:00.000Z",
-  "price": 9532.73,
+  "date": "2021-01-31T10:55:00.000Z",
+  "price": 33633.33,
   "priceChange": "down",
-  "change": 373.2900000000009,
+  "changeDelta": -706.9799999999959,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-07T10:55:00.000Z",
-  "price": 9287.41,
-  "priceChange": "down",
-  "change": 245.3199999999997,
+  "date": "2021-02-01T10:55:00.000Z",
+  "price": 34173.29,
+  "priceChange": "up",
+  "changeDelta": 539.9599999999991,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-08T10:55:00.000Z",
-  "price": 9298,
+  "date": "2021-02-02T10:55:00.000Z",
+  "price": 35107.87,
   "priceChange": "up",
-  "change": 10.590000000000146,
+  "changeDelta": 934.5800000000017,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-09T10:55:00.000Z",
-  "price": 9156.16,
-  "priceChange": "down",
-  "change": 141.84000000000015,
-  "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-05-10T10:55:00.000Z",
-  "price": 9367.8,
+  "date": "2021-02-03T10:55:00.000Z",
+  "price": 35979.77,
   "priceChange": "up",
-  "change": 211.63999999999942,
-  "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "changeDelta": 871.8999999999942,
+  "dayOfWeek": "Wednesday",
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-11T10:55:00.000Z",
-  "price": 8712,
+  "date": "2021-02-04T10:55:00.000Z",
+  "price": 37739.17,
+  "priceChange": "up",
+  "changeDelta": 1759.4000000000015,
+  "dayOfWeek": "Thursday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2021-02-05T10:55:00.000Z",
+  "price": 37430.96,
   "priceChange": "down",
-  "change": 655.7999999999993,
+  "changeDelta": -308.2099999999991,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-12T10:55:00.000Z",
-  "price": 8563.79,
-  "priceChange": "down",
-  "change": 148.20999999999913,
+  "date": "2021-02-06T10:55:00.000Z",
+  "price": 40002,
+  "priceChange": "up",
+  "changeDelta": 2571.040000000001,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-13T10:55:00.000Z",
-  "price": 8566.71,
-  "priceChange": "up",
-  "change": 2.9199999999982538,
+  "date": "2021-02-07T10:55:00.000Z",
+  "price": 39338.61,
+  "priceChange": "down",
+  "changeDelta": -663.3899999999994,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-14T10:55:00.000Z",
-  "price": 8421.99,
-  "priceChange": "down",
-  "change": 144.71999999999935,
-  "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
-}
-{
-  "date": "2018-05-15T10:55:00.000Z",
-  "price": 8806.99,
+  "date": "2021-02-08T10:55:00.000Z",
+  "price": 39418.98,
   "priceChange": "up",
-  "change": 385,
+  "changeDelta": 80.37000000000262,
+  "dayOfWeek": "Monday",
+  "highSinceStart": null,
+  "lowSinceStart": null
+}
+{
+  "date": "2021-02-09T10:55:00.000Z",
+  "price": 45854.66,
+  "priceChange": "up",
+  "changeDelta": 6435.68,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-16T10:55:00.000Z",
-  "price": 8372.6,
-  "priceChange": "down",
-  "change": 434.3899999999994,
+  "date": "2021-02-10T10:55:00.000Z",
+  "price": 46804.04,
+  "priceChange": "up",
+  "changeDelta": 949.3799999999974,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-17T10:55:00.000Z",
-  "price": 8296.85,
+  "date": "2021-02-11T10:55:00.000Z",
+  "price": 46201.38,
   "priceChange": "down",
-  "change": 75.75,
+  "changeDelta": -602.6600000000035,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-18T10:55:00.000Z",
-  "price": 8125.4,
-  "priceChange": "down",
-  "change": 171.45000000000073,
+  "date": "2021-02-12T10:55:00.000Z",
+  "price": 47481.24,
+  "priceChange": "up",
+  "changeDelta": 1279.8600000000006,
   "dayOfWeek": "Friday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-19T10:55:00.000Z",
-  "price": 8244.05,
-  "priceChange": "up",
-  "change": 118.64999999999964,
+  "date": "2021-02-13T10:55:00.000Z",
+  "price": 46786.57,
+  "priceChange": "down",
+  "changeDelta": -694.6699999999983,
   "dayOfWeek": "Saturday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-20T10:55:00.000Z",
-  "price": 8355.7,
+  "date": "2021-02-14T10:55:00.000Z",
+  "price": 49149.55,
   "priceChange": "up",
-  "change": 111.65000000000146,
+  "changeDelta": 2362.980000000003,
   "dayOfWeek": "Sunday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-21T10:55:00.000Z",
-  "price": 8471.3,
-  "priceChange": "up",
-  "change": 115.59999999999854,
+  "date": "2021-02-15T10:55:00.000Z",
+  "price": 47556.58,
+  "priceChange": "down",
+  "changeDelta": -1592.9700000000012,
   "dayOfWeek": "Monday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-22T10:55:00.000Z",
-  "price": 8251.14,
-  "priceChange": "down",
-  "change": 220.15999999999985,
+  "date": "2021-02-16T10:55:00.000Z",
+  "price": 49005.88,
+  "priceChange": "up",
+  "changeDelta": 1449.2999999999956,
   "dayOfWeek": "Tuesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-23T10:55:00.000Z",
-  "price": 7843.9,
-  "priceChange": "down",
-  "change": 407.2399999999998,
+  "date": "2021-02-17T10:55:00.000Z",
+  "price": 51375.22,
+  "priceChange": "up",
+  "changeDelta": 2369.340000000004,
   "dayOfWeek": "Wednesday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
 {
-  "date": "2018-05-24T10:55:00.000Z",
-  "price": 7314.87,
-  "priceChange": "down",
-  "change": 529.0299999999997,
+  "date": "2021-02-18T10:55:00.000Z",
+  "price": 51670,
+  "priceChange": "up",
+  "changeDelta": 294.77999999999884,
   "dayOfWeek": "Thursday",
-  "highSinceStart": false,
-  "lowSinceStart": false
+  "highSinceStart": null,
+  "lowSinceStart": null
 }
