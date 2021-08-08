@@ -1,4 +1,4 @@
-# Bitcoin Tracker
+# Overview
 Bitcoin tracker is a simple application which is used to track the price of bitcoin and the change in it's price day by day.
 
 ## Setup
