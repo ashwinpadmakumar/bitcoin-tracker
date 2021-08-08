@@ -1,5 +1,5 @@
 # Overview
-Bitcoin tracker is a simple application which is used to track the price of bitcoin and the change in it's price day by day.
+Bitcoin tracker is a an application which is used to track the bitcoin prices and the change in it's price day by day. It is developed using NodeJS which is backed by bitmex APIs which is a good platform to track bitcoin prices live.
 
 ## Setup
 Install node and npm.
